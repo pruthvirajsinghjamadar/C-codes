@@ -8,5 +8,6 @@ if((ch>=a&&ch<=z)||(ch>=A&&ch<=z)){
 }else if(ch<=0&&ch>=9){
     printf("character is digit");
 }else   {
-    printf("entered ch special")
+    printf("entered ch special character ")
+
 }}
