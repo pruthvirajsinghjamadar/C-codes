@@ -25,8 +25,11 @@ int main() {
             }else {
                 printf("umber are in this order%d%d%d",c,b,a);
             }
-            }
+            }else {
+        printf("they may be equal");
     }
+    }
+
 
 
     
